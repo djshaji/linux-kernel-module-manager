@@ -1,0 +1,14 @@
+This here is:
+Modman: A module manager
+
+AnswerTheCall: CPU Frequency Governor selector
+standalone/module_loader: A little utility that you can 
+run at system startup that shall load modules configured 
+through modman.
+
+Please note that because of the nature of the program, ya 
+need to run it as root ( only if ya plan to load / unload 
+modules through it )
+
+AnswerTheCall is dedicated to Cameron Diaz for no 
+particular reason.

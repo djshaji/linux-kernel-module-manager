@@ -1,0 +1,9 @@
+To compile, do
+$ make
+
+And to run Module Manager, do
+$ ./Modman
+
+And to run the CPU Governor selector, do
+$ AnswerTheCall
+
